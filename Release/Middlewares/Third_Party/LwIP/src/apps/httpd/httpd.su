@@ -1,0 +1,9 @@
+httpd.c:2521:1:http_accept	16	static
+httpd.c:587:1:http_close_or_abort_conn.constprop	16	static
+httpd.c:2344:1:http_err	8	static
+httpd.c:1193:1:http_send_data_ssi	56	static
+httpd.c:2436:1:http_recv	64	static
+httpd.c:2361:1:http_sent	24	static
+httpd.c:2388:1:http_poll	24	static
+httpd.c:2562:1:httpd_init	8	static
+httpd.c:2596:1:http_set_ssi_handler	8	static

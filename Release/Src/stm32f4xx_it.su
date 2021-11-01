@@ -1,0 +1,16 @@
+stm32f4xx_it.c:73:6:SVC_Handler	0	static
+stm32f4xx_it.c:86:6:PendSV_Handler	0	static
+stm32f4xx_it.c:99:6:SysTick_Handler	8	static
+stm32f4xx_it.c:121:6:EXTI1_IRQHandler	0	static
+stm32f4xx_it.c:135:6:EXTI3_IRQHandler	0	static
+stm32f4xx_it.c:149:6:EXTI9_5_IRQHandler	0	static
+stm32f4xx_it.c:163:6:TIM2_IRQHandler	0	static
+stm32f4xx_it.c:177:6:EXTI15_10_IRQHandler	0	static
+stm32f4xx_it.c:191:6:UART4_IRQHandler	0	static
+stm32f4xx_it.c:205:6:DMA2_Stream0_IRQHandler	0	static
+stm32f4xx_it.c:219:6:ETH_IRQHandler	0	static
+stm32f4xx_it.c:232:6:readButton	16	static
+stm32f4xx_it.c:256:6:HAL_GPIO_EXTI_Callback	16	static
+stm32f4xx_it.c:274:6:HAL_UART_TxCpltCallback	0	static
+stm32f4xx_it.c:279:6:HAL_TIM_PeriodElapsedCallback	0	static
+stm32f4xx_it.c:286:6:HAL_ADC_ConvCpltCallback	8	static
